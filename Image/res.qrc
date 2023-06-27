@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>close.bmp</file>
+        <file>close.png</file>
+        <file>gas_abnormal.bmp</file>
+        <file>gas_normal.bmp</file>
+        <file>iconfinder_Artboard_10_6045706.png</file>
+        <file>iconfinder_Fire_728986.png</file>
+        <file>iconfinder_weather_43_2682808.png</file>
+        <file>led_off.bmp</file>
+        <file>led_on.bmp</file>
+        <file>ok.ico</file>
+        <file>open.bmp</file>
+        <file>open.png</file>
+        <file>res.qrc</file>
+    </qresource>
+</RCC>
